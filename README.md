@@ -1,3 +1,5 @@
+# Coop Game
+
 Coop Game is an Unreal Engine 4 C++ Third Person Shooter Game. This project was created with a Udemy Unreal Engine 5 Course.
 
 This project was created in February, 2020. It was created and managed on my local GitLab server. Unfortunately, I was not able to directly port the GitLab project over to GitHub as it was both locally hosted and was in excess of 20GB (the only files included here are the C#, cpp and header source files).
